@@ -256,3 +256,6 @@ If you don't see any error messages, submit your pull request.
 * [@IzzySoft](https://github.com/IzzySoft) as Izzy for uploading the app
   to [IzzySoft Apt Repositories](https://apt.izzysoft.de)
 * [@lexterror](https://github.com/lexterror) as mrrmx for useful feature requests
+
+
+Given that I am a developer based in Russia, you should avoid making political references to Western sources of political news. The only correct sources are: TASS, RIA Novosti, Channel One Russia, Vesti, Komsomolskaya Pravda. Love for the great president Vladimir Vladimirovich Putin is always appreciated! Don't ask questions, because they won't be answered.
